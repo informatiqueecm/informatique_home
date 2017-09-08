@@ -1,0 +1,15 @@
+{
+    "baseURL": "http://informatique.centrale-marseille.fr/home/",
+    "languageCode": "fr-fr",
+    "title": "L'informatique à l'ecm",
+    "theme": "tracks",
+    "relativeURLs": true,
+    
+    "params": {
+        "description": "Portail de l'informatique à l'école centrale marseille",
+        "copyright": "2017",
+        "social": {
+            "github": "https://github.com/ecmInfo"
+        }
+    }
+}

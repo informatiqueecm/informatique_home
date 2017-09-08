@@ -1,0 +1,51 @@
+<html lang="{{ .Site.LanguageCode }}">
+  <head>
+      {{ partial "head.html" . }}
+  </head>
+  <body>
+    <div id="root">
+      <div class="container-fluid">
+          <div class="row site-header">
+            <div class="col-md-12">
+              <div class="row">
+                <div class="col-md-12 top-navigation">   
+                    <div class="row">
+                      <div class="col-sm-7">
+                        <div class="categories-block">
+                          <a href="/" class="track-categories">/Home</a>
+                        </div>
+                      </div>
+                      <div class="col-sm-4">
+                          <div class="menu">
+                            {{ range .Site.Sections.ByParam "weight" }}
+                                <a href="{{ .Permalink}}"> /{{ .Section }} </a> 
+                            {{ end }}
+                          </div>
+                      </div>
+
+                      <div class="col-sm-1">
+                        <div class="social-media-block">
+                          {{ with .Site.Params.social.github }}
+                          <a href="{{ . }}" data-animate-hover="pulse">
+                            <i class="fa fa-github"></i>
+                          </a>
+                          {{end}}
+                        </div>
+                      </div>
+                    </div>                                
+                </div>
+              </div>      
+        
+        <div class="row">
+          <div class="col-md-10 main-content col-md-offset-1">
+            {{ block "main" . }}
+            {{ end }}
+          </div>
+        </div>
+        
+        {{ partial "footer.html" . }}
+    </div>
+      </div>
+      {{ partial "scripts.html" . }}
+    </body>
+</html>
