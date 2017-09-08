@@ -2,7 +2,6 @@
     "baseURL": "http://informatique.centrale-marseille.fr/home/",
     "languageCode": "fr-fr",
     "title": "L'informatique à l'ecm",
-    "theme": "tracks",
     "relativeURLs": true,
     
     "params": {
