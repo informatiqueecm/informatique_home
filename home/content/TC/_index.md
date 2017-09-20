@@ -16,6 +16,6 @@ Séparé en 3 thèmes (algorithmes, programmation orientée objet et bases de do
 Pour connaitre le programme détaillé de chaque thème, vous pouvez consulter les pages :
 
 * [algorithmes](https://wiki.centrale-marseille.fr/informatique/public:alg-1:algorithmie)
-* [programmation orientée objet](https://wiki.centrale-marseille.fr/informatique/public:mco-2:modelisation_et_conception_objet)
+* [programmation orientée objet](../tc_poo/index.html)
 * [données](https://wiki.centrale-marseille.fr/informatique/public:std-3:stockage_et_traitement_des_donnees)
 
