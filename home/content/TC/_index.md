@@ -15,7 +15,7 @@ Séparé en 3 thèmes (algorithmes, programmation orientée objet et de gestion 
 
 Pour connaitre le programme détaillé de chaque thème, vous pouvez consulter les pages :
 
-* [algorithmes](https://wiki.centrale-marseille.fr/informatique/public:alg-1:algorithmie)
+* [algorithmes](https://wiki.centrale-marseille.fr/informatique/public:tc-algorithmes)
 * [programmation orientée objet](../tc_poo/index.html)
-* [données](https://wiki.centrale-marseille.fr/informatique/public:tc-d:donnees)
+* [données](https://wiki.centrale-marseille.fr/informatique/public:tc-donnees)
 
