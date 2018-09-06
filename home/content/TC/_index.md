@@ -1,21 +1,18 @@
 +++
 image = "img/pieter-bruegel-la-chute-des-anges-rebelles.jpg"
-title = "Tronc Commun"
+title = "Formation initiale"
 weight = 0
 +++
 
-Module de 72heures d'enseignement qui vous donnera des compétences de bases (mais pas basique) en code et en algorithme.
+
+Une unité de tronc commun en première année et un approfondissement en deuxième année.
 <!--more-->
-
-Séparé en 3 thèmes (algorithmes, programmation orientée objet et de gestion des données), ce module donne les fondements de code nécessaires à tout ingénieur. 
-
->Le déroulé de l'enseignement est identique pour les trois parties et consiste en 4 séances (1 TD et 1 TP par séance) permettant chacune d'aborder ou d'approfondir une notion pariculière. 
 
 ## Sites thématiques
 
 Pour connaitre le programme détaillé de chaque thème, vous pouvez consulter les pages :
 
-* [algorithmes](https://wiki.centrale-marseille.fr/informatique/public:tc-algorithmes)
-* [programmation orientée objet](../tc_poo/index.html)
-* [données](https://wiki.centrale-marseille.fr/informatique/public:tc-donnees)
+* [tronc commun S5/S6](https://wiki.centrale-marseille.fr/informatique/tronc_commun)
+* [approfondissement S7](../tc_poo/index.html)
+
 
